@@ -1,11 +1,26 @@
-                                                                   Hello!
+<h2 align="center"> Hello! </h2>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Hello+from+Revel!;Nice+to+meet+you!">
+  </a>
+</h1>
+</div>
+    
+<h2 align="center"> What I do </h2>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Exploit+Virus+Programs">
+  </a>
+</h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6E6E6E&center=true&multiline=true&lines=Hello+From+Revel)](https://git.io/typing-svg)
-
-                                                                 What I do
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6E6E6E&center=true&multiline=true&lines=Exploit+%2F%2F+Virus+%2F%2F+Programs+Creator)](https://git.io/typing-svg)
-
-                                                                 My skills
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6E6E6E&center=true&multiline=true&lines=Python+%2F%2F+Bash+%2F%2F+Batch+%2F%2F+C%23)](https://git.io/typing-svg)
+<h2 align="center"> My Skills </h2>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python+%2F+Batch+%2F+C%23">
+  </a>
+</h1>
+</div>
