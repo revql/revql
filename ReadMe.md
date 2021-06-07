@@ -11,7 +11,7 @@
 <div align="center">
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Exploit+Virus+Programs">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Exploit;Virus;Programs">
   </a>
 </h1>
 </div>
@@ -20,7 +20,7 @@
 <div align="center">
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python+%2F+Batch+%2F+C%23">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python;Batch;Bash;+C%23;">
   </a>
 </h1>
 </div>
