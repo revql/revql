@@ -20,7 +20,7 @@
 <div align="center">
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python;Batch;C++">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python;Batch;Cpp">
   </a>
 </h1>
 </div>
