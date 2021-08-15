@@ -1,26 +1,36 @@
-<h2 align="center"> Hello! </h2>
-<div align="center">
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Hello+from+Revel!;Nice+to+meet+you!">
-  </a>
-</h1>
-</div>
-    
-<h2 align="center"> What I do </h2>
-<div align="center">
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Exploit;Virus;Programs">
-  </a>
-</h1>
-</div>
+# Dark_Revel431
 
-<h2 align="center"> My Skills </h2>
-<div align="center">
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23646464A1&size=30&center=true&vCenter=true&lines=Python;Batch;Cpp">
-  </a>
-</h1>
-</div>
+**My skills: Python, C++, C, Batch**
+
+**Learning: Java, C#, Go**
+
+## Social:                    
+**YouTube:** https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA                         
+**Twitch:** https://www.twitch.tv/dark_revel431                                
+**Discord:** 𝕭𝖊𝖑𝖑𝖔 𝕱𝖎𝖌𝖔 𝕽𝖊𝖆𝖑#7938       
+##
+
+**Work with:** [Sniper10754](https://github.com/Sniper10754) **&** [UnityCoderByte](https://github.com/UnityCoderByte)
+
+**Team: Kunejo**
+
+### My Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Revel431&layout=compact&theme=dark"/>
+
+#
+
+<p align="center">
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="StackOverflow" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"></code>
+  <code><img title="Json" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <br><br>
+
+   
+</p>
