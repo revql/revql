@@ -2,7 +2,7 @@
 
 **My skills: Python, C++, C, Batch**
 
-**Learning: Java, C#, Go**
+**Learning: Java, C#**
 
 ## Social:                    
 **YouTube:** https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA                         
