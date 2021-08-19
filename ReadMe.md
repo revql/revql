@@ -16,7 +16,7 @@
 
 ### My Stats:
 
-<img align="center" src=""/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Revel431&layout=compact&theme=dark"/>
 
 #
 
