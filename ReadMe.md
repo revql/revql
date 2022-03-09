@@ -7,7 +7,7 @@
 ## Social:                    
 **YouTube:** https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA                         
 **Twitch:** https://www.twitch.tv/dark_revel431                                
-**Discord:** 𝕭𝖊𝖑𝖑𝖔 𝕱𝖎𝖌𝖔 𝕽𝖊𝖆𝖑#7938       
+**Discord:** 𝙲++#7938       
 ##
 
 **Work with:** [Sniper10754](https://github.com/Sniper10754) **&** [UnityCoderByte](https://github.com/UnityCoderByte)
