@@ -1,13 +1,11 @@
 # Revel
 
-**My skills: Python, C++, C, Batch**
-
-**Learning: Java, C#**
+**My skills: Python, C#**
 
 ## Social:                    
 **YouTube:** https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA                         
 **Twitch:** https://www.twitch.tv/dark_revel431                                
-**Discord:** 𝙲++#7938       
+**Discord:** こんにちは！🌙#7938
 ##
 
 **Work with:** [Sniper10754](https://github.com/Sniper10754) **&** [UnityCoderByte](https://github.com/UnityCoderByte)
