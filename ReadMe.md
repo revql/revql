@@ -5,7 +5,7 @@
 ## Social:                    
 **YouTube:** https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA                         
 **Twitch:** https://www.twitch.tv/dark_revel431                                
-**Discord:** こんにちは！🌙#7938
+**Discord:** 🌙🌕#7938
 ##
 
 **Work with:** [Sniper10754](https://github.com/Sniper10754) **&** [UnityCoderByte](https://github.com/UnityCoderByte)
@@ -20,8 +20,6 @@
 
 <p align="center">
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
   <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
   <code><img title="Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
