@@ -1,6 +1,6 @@
 # Revel
 
-**My skills: Python, C#**
+**My skills: Python, C#, .NET**
 
 ## Social:                    
 **[YouTube](https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA)**                                                            
@@ -10,7 +10,7 @@
 
 ## Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Revel431&layout=compact&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revql&layout=compact&theme=dark"/>
 
 #
 
