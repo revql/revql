@@ -1,10 +1,7 @@
 # Revel
 
-**My skills: Python, C#, .NET**
-
-## Social:                    
-**[YouTube](https://www.youtube.com/channel/UCt86BPAzh2hKlO5isamgnJA)**                                                            
-**Discord:** 🌙🌕.dll#7938
+**Python, C#, .NET**                                                                        
+**Discord:** giova.dll
 
 **Work with:** [Sniper10754](https://github.com/Sniper10754) **&** [UnityCoderByte](https://github.com/UnityCoderByte)
 
